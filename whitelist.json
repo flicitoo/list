@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "version": 1,
+    "generated": "2026-09-19T00:00:00Z",
+    "entries": [
+      {
+        "uuid": "e2d2d225-fffa-4564-ad13-76e06149e309",
+        "name": "moriran"
+      }
+    ]
+  },
+  "signature": "crqlT1mIlYMPFWGTkjFNU5yI0OSy4Gpaocwy0kY9a1dz12Doo9ZxC1kwuJqN6hlZRtb6YlEB3Dkyj539BTAODA=="
+}
